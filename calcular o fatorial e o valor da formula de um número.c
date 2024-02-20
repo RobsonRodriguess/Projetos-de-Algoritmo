@@ -8,8 +8,8 @@ int main()
     float e = 1, fat = 1;
     
     
-    printf("Para calcular o fatorial e o valor da formula de um número siga os passos.\n");
-    printf("Digite o número que será calculado: ");
+    printf("Para calcular o fatorial e o valor da formula de um numero siga os passos.\n");
+    printf("Digite o numero que sera calculado: ");
     scanf("%d", &n);
     
     for (v=1; v<=n; v++)
@@ -19,8 +19,8 @@ int main()
 	}
 	
 	
-	printf("O fatorial do número digitado é: %0.0f \n", fat);
-	printf("Valor do número na formula e: %f", e);
+	printf("O fatorial do numero digitado e: %0.0f \n", fat);
+	printf("Valor do numero na formula e: %f", e);
 	
 	return 0;
 }

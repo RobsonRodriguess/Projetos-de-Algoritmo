@@ -12,7 +12,7 @@ int main() {
 
  qtddegraus = alturadesejada / alturadegrau;
 
- printf("Serão necessários subir %d degraus.\n", qtddegraus);
+ printf("Serao necessarios subir %d degraus.\n", qtddegraus);
 
 
 return 0;

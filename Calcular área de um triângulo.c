@@ -32,10 +32,7 @@ int main()
 	}while(h<=0 && b<=0);
 	a= (b*h)/2;
 	
-	printf("Seu resultado é:%0.2f ", a);
-	
-	
-
+	printf("Seu resultado e:%0.2f ", a);
 	
 
 	return 0;
